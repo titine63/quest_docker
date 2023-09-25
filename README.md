@@ -1,4 +1,4 @@
-Mon Projet React avec Docker
+# Mon Projet React avec Docker
 
 Ce projet utilise Docker pour gérer l'environnement de développement.
 
@@ -12,7 +12,7 @@ Ouvrez <http://localhost:8080> pour la voir dans votre navigateur.
 La page se rechargera lorsque vous ferez des modifications.
 Vous pourrez également voir les erreurs de lint dans la console.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
