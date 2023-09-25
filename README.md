@@ -1,3 +1,17 @@
+Mon Projet React avec Docker
+
+Ce projet utilise Docker pour gérer l'environnement de développement.
+
+Scripts Disponibles
+Dans le répertoire du projet, vous pouvez exécuter :
+
+docker compose -f docker-compose.dev.yml up --build
+Lance l'application en mode de développement avec Docker.
+Ouvrez <http://localhost:8080> pour la voir dans votre navigateur.
+
+La page se rechargera lorsque vous ferez des modifications.
+Vous pourrez également voir les erreurs de lint dans la console.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

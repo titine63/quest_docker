@@ -1,0 +1,10 @@
+version: '3'
+services:
+  client:
+    build: .  # Le Dockerfile est dans le dossier courant
+    ports:
+      - "8080:3000"
+    volumes:
+      - ./src:/app/src  # cela permettra le hot-reloading
+
+
